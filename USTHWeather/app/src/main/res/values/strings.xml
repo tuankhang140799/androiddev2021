@@ -12,4 +12,20 @@
     <string name="title_activity_weather">WeatherActivity</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+    <string name="thunderstorms">Thunderstorms</string>
+    <string name="mostly_cloudy">Mostly Cloudy</string>
+    <string name="scattered_showers">Scattered Showers</string>
+    <string name="partly_cloudy">Partly Cloudy</string>
+    <string name="showers">Showers</string>
+    <string name="rain">Rain</string>
+    <string name="scattered_thunderstorms">Scattered Thunderstorms</string>
+    <string name="hanoi">Hanoi</string>
+    <string name="cloudy">12C\nCloudy</string>
 </resources>
